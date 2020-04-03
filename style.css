@@ -54,6 +54,7 @@
   
   header h1 {
     margin: 0 0 30px;
+    text-shadow: 2px 2px 5px black;
   }
   
   form {
