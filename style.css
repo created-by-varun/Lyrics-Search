@@ -5,7 +5,7 @@
   }
   
   body {
-    background-color: #fff;
+    background-color: rgb(12, 15, 53);
     font-family: 'Montserrat', sans-serif;
     margin: 0;
   }
@@ -24,7 +24,7 @@
   }
   
   header {
-    background-image: url('https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+    background-image: url('https://images.unsplash.com/photo-1537215685160-2496ed0c0aed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
