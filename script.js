@@ -32,12 +32,12 @@ function showData(data) {
     more.innerHTML = `
       ${
         data.prev
-          ? `<button class="btn" onclick="getMoreSongs('${data.prev}')">Prev</button>`
+          ? `<button class="btn" onclick="getMoreSongs('${data.prev}')">< Prev</button>`
           : ''
       }
       ${
         data.next
-          ? `<button class="btn" onclick="getMoreSongs('${data.next}')">Next</button>`
+          ? `<button class="btn" onclick="getMoreSongs('${data.next}')">Next ></button>`
           : ''
       }
     `;

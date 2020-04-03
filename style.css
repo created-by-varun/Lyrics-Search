@@ -82,7 +82,7 @@
     position: absolute;
     top: 2px;
     right: 2px;
-    background-color: #e056fd;
+    background-color: #ff9924;
     border: 0;
     border-radius: 50px;
     color: #fff;
@@ -93,7 +93,7 @@
   .btn {
     background-color: #8d56fd;
     border: 0;
-    border-radius: 10px;
+    border-radius: 2px;
     color: #fff;
     padding: 4px 10px;
   }
